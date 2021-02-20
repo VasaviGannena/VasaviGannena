@@ -9,7 +9,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
+<h3>Connect with me:</h3>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VasaviGannena)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasavigannena/)
 
@@ -40,9 +40,3 @@ You can use the website to generate badges: https://shields.io/
 <code><img src="https://icongr.am/devicon/nodejs-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/git-original.svg?size=22&color=currentColor"></code>
-
-<h3 align="left">Connect with me:</h3>
-<p align ="left">
-<a href="https://www.linkedin.com/in/vasavigannena/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya18062000" height="30" width="40" /></a>
-<a href="https://github.com/VasaviGannena" target="blank"><img align="centre" src="" alt="" height="30" width="40" /></a>
-</p>
