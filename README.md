@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2> -->
 
-<img align='right' src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/source.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/source.gif" width="300">
 <p><em>Hi, I'm Vasavi, a Developer from Melbourne<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
