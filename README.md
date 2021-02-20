@@ -1,5 +1,7 @@
 <!--Github Profile -->
 
+## Intro
+
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="300">
 <p><em>Hi, I'm Vasavi 🙏🏻, a Developer from Melbourne
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
