@@ -37,7 +37,6 @@ You can use the website to generate badges: https://shields.io/
 <code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/git-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/wordpress-plain.svg?size=22&color=currentColor"></code>
-
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
