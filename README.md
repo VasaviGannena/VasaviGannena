@@ -1,18 +1,42 @@
-### Hi there 👋
+### Hi, I'm Vasavi Gannena, a Developer from Melbourne 🚀
 
-<!--
-**VasaviGannena/vasaviGannena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VasaviGannena)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasavigannena/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vasavi5431@gmail.com)
 
-- 🔭 I’m currently looking a job 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about creative, Problem-sloving, HTML, CSS, Bootstrap Javascript, NPM , MongoDB I'll be happy to do my best
-- 📫 How to reach me: Linkedin 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: No number before 1,000 contains the letter V
+&nbsp;
 
+<!-- Talking about you -->
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="" />
 
-                 
+###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
+
+- 🔭 I’m currently Volunteering/Looking for an opportunity;
+- 🌱 I’m currently learning React;
+- 👯 I’m looking to collaborate on ;
+- 🤔 I’m looking for help with Design Patterns 😭;
+- 💬 Ask me about I love coding;
+- 😄 Pronouns: She/her;
+- ⚡ Fun fact: I like decorating my home with my Art work;
+- 📫 How to reach me: vasavi5431@gmail.com;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+  **Languages and Tools:**
+   <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+
+<code><img src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/sass-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=22&color=currentColor"></code>
+
+<code><img src="https://icongr.am/devicon/react-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
