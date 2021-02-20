@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2> -->
 
-<img align='right' src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/source.gif" width="500">
+<img align='right' src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/source.gif" width="280">
 <p><em>Hi, I'm Vasavi, a Developer from Melbourne<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -40,3 +40,9 @@ You can use the website to generate badges: https://shields.io/
 <code><img src="https://icongr.am/devicon/nodejs-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/git-original.svg?size=22&color=currentColor"></code>
+
+<h3 align="left">Connect with me:</h3>
+<p align ="left">
+<a href="https://www.linkedin.com/in/vasavigannena/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya18062000" height="30" width="40" /></a>
+<a href="https://github.com/VasaviGannena" target="blank"><img align="centre" src="" alt="" height="30" width="40" /></a>
+</p>
