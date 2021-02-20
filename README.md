@@ -3,8 +3,12 @@
 </h2> -->
 
 <img align='right' src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/source.gif" width="300">
-<p><em>Hi, I'm Vasavi, a Developer from Melbourne<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Hi, I'm Vasavi 🙏🏻, a Developer from Melbourne
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+<h2>नमस्ते (Namaste), I'm Anmol Pratap Singh! </h2>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,10 +25,11 @@ You can use the website to generate badges: https://shields.io/
 
 - 🔭 I’m currently Volunteering/Looking for an opportunity;
 - 🌱 I’m currently learning React;
-- 👯 I’m looking to collaborate on ;
+- 👯 I’m looking to collaborate on web developnment🤝;
 - 🤔 I’m looking for help with Design Patterns 😭;
 - 💬 Ask me about I love coding;
 - 😄 Pronouns: She/her;
+- 🌐 Github:MyProfilio by using Angular: https://vasavigannena.github.io/portfolio-ng/ ;
 - ⚡ Fun fact: I like decorating my home with my Art work;
 - 📫 How to reach me: vasavi5431@gmail.com ;
 
