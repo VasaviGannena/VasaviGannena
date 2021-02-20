@@ -15,13 +15,13 @@ You can use the website to generate badges: https://shields.io/
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
 - 🔭 I’m currently, Volunteer at CodeforAustralia and open to work;
-- 🌱 I’m currently learning React;
-- 👯 I’m looking to collaborate on web developnment🤝;
-- 🤔 I’m looking for help with Design Patterns 😭;
-- 💬 Ask me about I love coding;
+- 🌱 I’m currently learning **React**;
+- 👯 I’m looking to collaborate on **web developnment**🤝;
+- 🤔 I’m looking for help with **Design Patterns** 😭;
+- 💬 Ask me about **coding** I love to;
 - 😄 Pronouns: She/her;
 - 🌐 Github-Page:MyProtfolio by using Angular: https://vasavigannena.github.io/portfolio-ng/ ;
-- ⚡ Fun fact: I like decorating my home with my Art work;
+- ⚡ Fun fact: **I like decorating my home with my Art work**;
 - 📫 How to reach me: vasavi5431@gmail.com ;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!..</b> 😊</em>
