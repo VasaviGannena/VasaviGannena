@@ -6,14 +6,12 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VasaviGannena)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasavigannena/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vasavi5431@gmail.com)
 
 &nbsp;
 
 <!-- Talking about you -->
 <!-- Any image aligned to the right. Beware the width -->
-
-<img width="55%" align ="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif />
+<!-- <img width="55%" align ="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif /> -->
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
@@ -29,9 +27,6 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
   **Languages and Tools:**
-  <!-- Your languages and tools. Be careful with the alignment.
-      You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-      -->
 
   <code><img src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
   <code><img src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor"></code>
