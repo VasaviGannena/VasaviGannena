@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 </br>
 
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/source.gif />
+<img width="55%" align ="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif />
 
 </br>
 
