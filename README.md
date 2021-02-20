@@ -1,9 +1,9 @@
 <!--Github Profile -->
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="300">
-<p><em>Hi, I'm Vasavi 🙏🏻, a Developer from Melbourne</em> </p>
+<p><em>Hi, I'm Vasavi 🙏🏻, a Developer from Melbourne
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<!-- </em></p> -->
+</em></p>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
