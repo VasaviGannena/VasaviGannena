@@ -1,4 +1,5 @@
 <!--Github Profile -->
+
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="300">
 <p><em>Hi, I'm Vasavi 🙏🏻, a Developer from Melbourne
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
@@ -14,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
-- 🔭 I’m currently, Volunteer at CodeforAustralia and open to work;
+- 🔭 I’m currently, **Volunteer at CodeforAustralia and open to work**;
 - 🌱 I’m currently learning **React**;
 - 👯 I’m looking to collaborate on **web developnment**🤝;
 - 🤔 I’m looking for help with **Design Patterns** 😭;
