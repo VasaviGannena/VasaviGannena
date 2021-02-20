@@ -9,7 +9,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<h3>Connect with me:</h3>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VasaviGannena)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasavigannena/)
 
